@@ -1,0 +1,1 @@
+x = pi/4; y = sqrt(2)/2 - sin(x); - round(y*100)/100

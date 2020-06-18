@@ -1,0 +1,6 @@
+Le programme traite les cas d'erreur suivant :
+
+- Division par zero
+- Calcul de sqrt(x) dans le cas où x est négatif
+
+Dans les deux cas le calcul est stoppé avec envoi d'un message d'erreur.
